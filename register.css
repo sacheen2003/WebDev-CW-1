@@ -1,0 +1,20 @@
+.login{
+    font-size: 20px;
+    color: black;
+    padding-left: 250px;
+}
+.new{
+    color: black;
+}
+.logo{
+    background-image: url("images/logo.png");
+    height: 180px;
+    width: 975px;
+    background-repeat: no-repeat;
+}
+.bg{
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 901px;
+}

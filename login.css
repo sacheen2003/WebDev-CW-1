@@ -1,0 +1,63 @@
+.oh{
+    font-size: 30px;
+    padding-left: 70px;
+}
+.bg{
+    background-image: url("images/b1.jpg");
+    width: auto;
+    height: auto;
+    background-size: cover;
+}
+.des{
+    font-size: 45px;
+    font-family: Amaranth;
+    color: black;
+    padding-left: 36px;
+}
+.des1{
+    font-size: 35px;
+    font-family: Arial;
+    color: black;
+}
+.des2{
+    font-size: 25px;
+    font-family: Arial;
+    color: black;
+}
+.desdiv{
+    margin-top: 250px;
+    width: auto;
+    height: auto;
+}
+ .logo{
+    background-image: url("images/logo.png");
+    width: 600px;
+    height: 200px;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-left: 205px;
+    position:relative; left: -180px; top: 15px;
+    background-size: 80%;
+ }
+ .inner{
+    width: 703px;
+    border-radius: 35px;
+ }
+ .form-con{
+    display: block;
+    width: 205%;
+    height: auto;
+    padding: 0.375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: inherit;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}

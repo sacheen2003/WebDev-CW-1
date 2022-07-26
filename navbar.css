@@ -1,0 +1,9 @@
+.listing{
+    transition-duration:0.1s;
+
+}
+.listing-wrd:hover{
+    background-color:grey;
+    border-radius: 12px;;
+    color: aqua;
+}

@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('Fonts/Finlandica-Bold.ttf');
+}
+.carousel{
+    background-size: contain;
+
+}
+.first{
+    width:auto;
+    height:900px;
+    background-image: url('images/homewallpaper.jpg');
+    background-size: cover;
+}
+.second{
+    width:auto;
+    font-family: 'Lato';
+    
+}
+.artist{
+    width: 250px;
+    height: 300px;
+    object-fit: contain;
+    text-align: center;
+    font-family: 'Lato';
+}
+
+.artist:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.03); 
+    text-align: 
+}
+.artist-details{
+    margin-right:70px;
+    text-align: center;
+    font-family: 'Lato';
+}
+
+.iframe_url{
+    padding-left: px;
+    float:left; 
+}
+.bottom{
+    margin-top:30px;
+    height:70px;
+    width: auto;
+}
+.icons{
+    width:72px;
+    height:auto;
+    padding-left:50px;
+    float:left;
+}
+.button{
+    width:90px;
+    background-color:#FEFEFE; 
+    border-radius:5px;
+    margin-left:35%;
+    transition-duration:0.4s ;
+
+}
+.button-alb:hover{
+    background-color:#1E1E1E;
+    color:white;
+}
+.disalb:hover{
+    background-color: lightgrey;
+}
+.box:hover{
+    -ms-transform: scale(0.7); /* IE 9 */
+    -webkit-transform: scale(0.5); /* Safari 3-8 */
+    transform: scale(1.03);
+}
+.mainbg{
+    background-image: url("images/b1.jpg");
+}
